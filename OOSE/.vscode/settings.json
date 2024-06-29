@@ -1,0 +1,7 @@
+{
+    "java.help.shareDiagnostics": true,
+    "java.project.sourcePaths": [
+        "javaapplication1",
+        "newpackage"
+    ]
+}
